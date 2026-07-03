@@ -1,0 +1,1001 @@
+restaurant_id,city_id,name,brand_flag,cuisine,commission_rate,go_live_date,status
+1,2,Rest_Y6DPBH,0,Fast Food,24.48,18-11-2022,active
+2,7,Rest_HV3A3Z,0,North Indian,21.31,14-05-2023,inactive
+3,6,Rest_DNMMJB,0,Chinese,25.24,20-02-2023,active
+4,5,Rest_3W5UZB,0,Healthy/Continental,29.62,23-07-2023,active
+5,2,Rest_NQ4FMY,0,Café,20.83,25-10-2022,active
+6,4,Rest_FN9XUY,0,Café,20.83,07-05-2023,active
+7,6,Rest_OC6UZH,0,Bakery,29.9,20-06-2023,active
+8,4,Rest_0T0PVN,0,North Indian,25.84,15-12-2022,active
+9,1,Rest_4FFYVN,0,Café,19.65,05-12-2022,active
+10,1,Rest_YE511M,0,Bakery,24.71,12-01-2023,active
+11,5,Rest_81SDW4,0,North Indian,19.68,15-06-2023,active
+12,3,Rest_T2TALA,0,Healthy/Continental,19.67,02-05-2023,active
+13,2,Rest_DRC11E,0,North Indian,23.21,09-06-2023,active
+14,7,Rest_871YZO,0,Chinese,12.43,20-01-2023,active
+15,8,Rest_EIMVIH,1,Café,13.38,07-05-2023,active
+16,1,Rest_4CIYHE,0,Bakery,19.19,10-11-2022,active
+17,8,Rest_3GDPPQ,0,Café,16.94,01-08-2023,active
+18,6,Rest_2DGTFG,0,Fast Food,23.57,18-01-2023,active
+19,2,Rest_B94874,0,Multi-Cuisine,17.46,29-12-2022,active
+20,7,Rest_6FAO72,0,Fast Food,14.94,26-12-2022,active
+21,5,Rest_HC0CLB,0,North Indian,29.33,13-06-2023,active
+22,2,Rest_4CC5O7,0,Bakery,20.87,01-11-2022,active
+23,2,Rest_PVS7HZ,0,Bakery,22.34,26-06-2023,active
+24,5,Rest_Q77AWU,1,North Indian,14.88,15-05-2023,active
+25,3,Rest_755NF4,0,Bakery,19.28,02-10-2022,active
+26,5,Rest_7D5J60,0,Multi-Cuisine,22.55,27-10-2022,active
+27,6,Rest_HWJR64,1,North Indian,16.25,13-04-2023,active
+28,6,Rest_1WJ0TP,1,South Indian,23.88,17-06-2023,active
+29,6,Rest_UFEL62,0,Bakery,19,17-05-2023,active
+30,2,Rest_MU5907,0,Multi-Cuisine,20.54,03-06-2023,active
+31,1,Rest_G72OY0,0,Café,18.99,08-07-2023,active
+32,1,Rest_4I3QK2,0,Healthy/Continental,31.26,26-05-2023,active
+33,5,Rest_58KXO9,0,Chinese,21.93,04-07-2023,active
+34,5,Rest_G8JDP0,0,Fast Food,16.71,14-12-2022,active
+35,4,Rest_JZA7TZ,0,Multi-Cuisine,26.11,27-02-2023,active
+36,6,Rest_WXE6SY,0,North Indian,15.9,22-11-2022,active
+37,7,Rest_XN0GUO,0,Bakery,23.04,08-04-2023,active
+38,6,Rest_QPHR62,0,Bakery,12.2,09-04-2023,active
+39,6,Rest_D8IL3F,1,South Indian,15.36,24-10-2022,active
+40,2,Rest_Q5UZNO,1,North Indian,22.98,09-07-2023,active
+41,4,Rest_G8SBI4,0,Multi-Cuisine,25.69,04-12-2022,inactive
+42,6,Rest_86WZS3,0,Chinese,22.86,01-01-2023,active
+43,4,Rest_4J1RIP,0,South Indian,21.42,15-04-2023,active
+44,2,Rest_EIYZCO,0,Healthy/Continental,20.49,01-08-2023,active
+45,7,Rest_O18A5U,0,South Indian,14.61,02-04-2023,active
+46,7,Rest_T026RJ,0,Healthy/Continental,18.4,13-03-2023,active
+47,7,Rest_0479T6,0,Café,19.7,21-07-2023,active
+48,3,Rest_5GJLQM,0,Chinese,27.29,29-01-2023,active
+49,2,Rest_Q0B8IC,0,South Indian,23.72,17-08-2023,active
+50,4,Rest_4WIRE8,0,North Indian,13.18,25-02-2023,active
+51,2,Rest_2FLU7U,0,Multi-Cuisine,23.62,10-02-2023,active
+52,4,Rest_CYWD14,0,Café,20.07,16-11-2022,active
+53,6,Rest_TXCXAP,0,Healthy/Continental,18.62,28-02-2023,active
+54,8,Rest_ZP08J3,0,Fast Food,25.06,06-01-2023,active
+55,5,Rest_LI7KQ1,0,Healthy/Continental,27.15,13-03-2023,active
+56,6,Rest_GH2M5Z,0,Multi-Cuisine,26.66,11-12-2022,active
+57,2,Rest_IOTIRZ,0,Healthy/Continental,17.8,16-07-2023,active
+58,7,Rest_YLURTP,0,Café,20.45,05-03-2023,active
+59,5,Rest_LIZL08,0,Café,23.66,14-05-2023,active
+60,5,Rest_09SKDG,0,South Indian,26.88,31-03-2023,active
+61,3,Rest_J9TZE5,0,Bakery,19.6,12-11-2022,active
+62,8,Rest_PGB7R3,0,Fast Food,21.07,10-11-2022,active
+63,1,Rest_F38DIU,0,Healthy/Continental,16.47,20-10-2022,active
+64,7,Rest_QP49KW,0,Multi-Cuisine,16.02,18-05-2023,active
+65,5,Rest_XFGCAQ,0,Chinese,26.06,16-08-2023,active
+66,5,Rest_ZQY72W,0,Fast Food,28.78,27-01-2023,active
+67,4,Rest_X63CFL,0,North Indian,21.64,07-04-2023,active
+68,8,Rest_YZ7SRC,1,South Indian,27.02,20-03-2023,active
+69,1,Rest_D84U89,0,South Indian,23.81,10-11-2022,active
+70,3,Rest_QX6GVW,0,Fast Food,18.77,04-01-2023,active
+71,6,Rest_LDFORX,0,Fast Food,23.81,14-08-2023,active
+72,6,Rest_JE153A,0,Multi-Cuisine,29.69,02-02-2023,active
+73,6,Rest_WRPBJE,0,Bakery,21.82,01-07-2023,active
+74,4,Rest_ZLAOI4,1,Healthy/Continental,29.82,05-10-2022,active
+75,8,Rest_7KZORQ,0,Healthy/Continental,10,17-02-2023,active
+76,3,Rest_5J2O7S,0,Multi-Cuisine,26.11,02-04-2023,active
+77,8,Rest_5QRL1N,0,Fast Food,22.44,02-05-2023,active
+78,4,Rest_4OLR6N,0,North Indian,20.5,22-12-2022,inactive
+79,3,Rest_SV55PS,0,Café,22.46,04-02-2023,active
+80,3,Rest_C2JWOC,0,Chinese,12.06,19-02-2023,inactive
+81,8,Rest_5BCW79,0,Multi-Cuisine,20.9,13-07-2023,active
+82,2,Rest_PY6B2K,0,South Indian,23.79,29-04-2023,active
+83,3,Rest_GC5WI6,1,Fast Food,29.39,10-10-2022,active
+84,5,Rest_Y6QKTC,0,Multi-Cuisine,19.41,01-04-2023,active
+85,7,Rest_YQK94D,0,South Indian,17.96,11-11-2022,active
+86,5,Rest_A3OA52,0,Chinese,19.49,21-12-2022,active
+87,5,Rest_1I2HGJ,0,Bakery,26.58,15-10-2022,active
+88,1,Rest_LPU0DK,0,Chinese,23.64,22-05-2023,active
+89,6,Rest_T63J3R,0,Healthy/Continental,19.35,05-07-2023,active
+90,2,Rest_F84098,0,Chinese,24.57,17-07-2023,active
+91,1,Rest_JEN0JN,0,North Indian,22.49,08-07-2023,active
+92,8,Rest_A5U6HC,0,Chinese,26.84,04-10-2022,active
+93,3,Rest_BB9EIT,0,Fast Food,18.49,29-11-2022,active
+94,3,Rest_5X4W7K,0,Multi-Cuisine,20.36,17-01-2023,active
+95,4,Rest_4DYT9M,0,Multi-Cuisine,20.04,01-07-2023,active
+96,8,Rest_DHX8BM,0,Multi-Cuisine,14.68,19-05-2023,active
+97,4,Rest_V3I12V,0,Café,23.48,27-06-2023,active
+98,3,Rest_D5EM2V,1,Healthy/Continental,23.31,06-08-2023,active
+99,7,Rest_S0R2SD,0,Multi-Cuisine,22.03,10-08-2023,active
+100,5,Rest_Q8CROY,0,Fast Food,20.83,26-07-2023,active
+101,6,Rest_VCJWTL,0,Café,14.92,04-04-2023,active
+102,7,Rest_DZ4X1Z,0,Café,19.9,08-05-2023,active
+103,8,Rest_O0LLJ8,0,Multi-Cuisine,20.29,29-07-2023,active
+104,2,Rest_DD03UV,0,Café,17.99,01-07-2023,active
+105,7,Rest_5Z8VMU,0,Café,21.19,10-05-2023,active
+106,6,Rest_4N1U34,0,Bakery,24.02,22-10-2022,active
+107,1,Rest_VXYBJ1,0,North Indian,31.43,29-08-2023,active
+108,3,Rest_UOFWB0,0,Healthy/Continental,22.87,12-01-2023,active
+109,6,Rest_LL7V5F,0,Multi-Cuisine,23.29,22-07-2023,active
+110,7,Rest_RPJ1EP,0,Fast Food,21.63,26-12-2022,active
+111,5,Rest_BOVAKH,1,Multi-Cuisine,12.41,06-04-2023,active
+112,1,Rest_RPETIU,0,Chinese,21.87,27-07-2023,active
+113,1,Rest_PQCLPO,0,Café,22.3,05-07-2023,active
+114,6,Rest_G8QYNP,1,Café,34.32,04-11-2022,active
+115,2,Rest_OLMLGS,1,Fast Food,21.04,25-05-2023,active
+116,6,Rest_M8XFDJ,0,South Indian,23.51,01-10-2022,active
+117,8,Rest_QUUY5X,0,Multi-Cuisine,21.83,15-10-2022,active
+118,8,Rest_CPKJCS,0,South Indian,16.16,13-08-2023,active
+119,5,Rest_C54WSQ,0,Multi-Cuisine,27.71,14-01-2023,active
+120,4,Rest_LRFCD6,0,South Indian,25.76,17-12-2022,active
+121,1,Rest_IPPSFN,0,South Indian,25.96,12-03-2023,active
+122,1,Rest_2XCDYK,0,South Indian,17.45,17-06-2023,active
+123,3,Rest_7LXXEZ,1,Bakery,29.01,21-02-2023,active
+124,6,Rest_3Y30YS,0,North Indian,14.99,15-12-2022,active
+125,6,Rest_L8M1G9,0,North Indian,24.93,12-07-2023,active
+126,1,Rest_X5WVFG,0,Multi-Cuisine,32.95,09-06-2023,active
+127,1,Rest_OYIPK0,0,Café,17.05,02-05-2023,active
+128,8,Rest_6GYUP1,0,South Indian,19.17,05-12-2022,active
+129,3,Rest_32EJX5,0,Chinese,22.5,11-12-2022,active
+130,5,Rest_DFQS3D,0,Chinese,19.48,07-03-2023,active
+131,7,Rest_BSI9NB,0,Multi-Cuisine,14.25,19-06-2023,active
+132,5,Rest_7R31QW,0,Café,22.34,23-04-2023,active
+133,3,Rest_T0SEKK,1,Healthy/Continental,16.69,09-10-2022,active
+134,8,Rest_C4RTWU,0,South Indian,24.37,25-01-2023,active
+135,6,Rest_IOXD9C,0,Chinese,17.4,16-12-2022,active
+136,7,Rest_5BNN0M,1,Fast Food,29.75,15-10-2022,active
+137,6,Rest_EMMX3Y,0,North Indian,18.08,13-10-2022,active
+138,3,Rest_C1QKBH,1,Café,20.39,12-12-2022,active
+139,8,Rest_J1GM25,0,North Indian,26.07,25-02-2023,active
+140,7,Rest_06N9RR,0,North Indian,15.85,18-04-2023,active
+141,7,Rest_CV3TLC,0,North Indian,23.14,16-01-2023,active
+142,7,Rest_FPQ06W,0,Healthy/Continental,28.54,25-07-2023,active
+143,7,Rest_N2Y8FV,0,Chinese,13.96,29-06-2023,active
+144,6,Rest_N8BFQN,0,Multi-Cuisine,22.92,12-11-2022,active
+145,6,Rest_OXIE0R,0,South Indian,23.3,03-07-2023,active
+146,5,Rest_ZHWY9H,1,Healthy/Continental,25.91,13-01-2023,active
+147,8,Rest_9389YZ,0,Healthy/Continental,15.82,01-04-2023,active
+148,3,Rest_2SEHE2,1,North Indian,15.4,12-11-2022,active
+149,3,Rest_WDL9ZS,0,Chinese,24.61,26-07-2023,active
+150,6,Rest_XQYM52,0,Bakery,23.48,27-06-2023,active
+151,1,Rest_3SKF7I,0,Fast Food,23.25,09-04-2023,active
+152,5,Rest_H8JWWD,0,Multi-Cuisine,23.73,08-11-2022,active
+153,6,Rest_4U3BBX,0,South Indian,18.6,13-11-2022,active
+154,1,Rest_RWK8R2,0,Bakery,23.16,12-01-2023,active
+155,1,Rest_FOQMF5,0,Multi-Cuisine,23.47,09-02-2023,active
+156,6,Rest_SDIEQF,1,Bakery,18.43,21-10-2022,active
+157,3,Rest_37ZGF9,0,Fast Food,31.33,21-12-2022,active
+158,7,Rest_S8HMBR,0,Healthy/Continental,24.37,08-04-2023,active
+159,2,Rest_P501NO,0,Chinese,16.04,28-02-2023,active
+160,2,Rest_NQT3WV,1,Fast Food,25.28,12-02-2023,active
+161,6,Rest_UNFVOB,1,South Indian,17.13,02-01-2023,active
+162,3,Rest_VSLWF9,0,Café,25.94,02-11-2022,active
+163,8,Rest_ZK3NY9,0,Multi-Cuisine,27.79,31-10-2022,active
+164,4,Rest_ZVGWW4,1,Healthy/Continental,17.9,16-08-2023,active
+165,2,Rest_GPPOHS,0,South Indian,26.82,01-08-2023,active
+166,4,Rest_U9RN8Q,0,Healthy/Continental,24.06,04-03-2023,active
+167,5,Rest_VGIUI9,0,Multi-Cuisine,26.11,18-05-2023,active
+168,8,Rest_LM72JE,0,Multi-Cuisine,31.48,11-02-2023,active
+169,3,Rest_KKZMPJ,0,Fast Food,20.77,30-11-2022,active
+170,5,Rest_EWVIYT,0,Multi-Cuisine,18.23,12-07-2023,active
+171,8,Rest_D1AT7O,0,Bakery,17.55,31-12-2022,active
+172,5,Rest_LX6DUT,0,Bakery,17.92,04-06-2023,active
+173,3,Rest_7B42G0,0,North Indian,21.61,13-08-2023,active
+174,2,Rest_7MQXS6,1,Café,23.71,05-01-2023,active
+175,2,Rest_L0XZAM,0,Multi-Cuisine,23.38,04-06-2023,active
+176,7,Rest_3SDYGF,0,Bakery,26.14,29-08-2023,active
+177,4,Rest_QJLUUJ,0,Bakery,22.07,01-08-2023,active
+178,8,Rest_LOS6ZL,1,Café,29.27,25-02-2023,active
+179,4,Rest_8RQ9NZ,0,Café,20.68,13-05-2023,active
+180,2,Rest_STN7E3,0,Healthy/Continental,35,12-11-2022,active
+181,3,Rest_LSEHUD,0,Bakery,25.13,12-01-2023,active
+182,7,Rest_QCQ30O,0,Healthy/Continental,17.71,09-11-2022,active
+183,7,Rest_MC97C7,1,Multi-Cuisine,16.65,01-06-2023,active
+184,7,Rest_N6Q7NC,0,South Indian,24.41,25-06-2023,active
+185,6,Rest_E9OE94,0,North Indian,20.88,07-01-2023,active
+186,7,Rest_T3IMJ7,0,South Indian,25.57,16-08-2023,active
+187,7,Rest_W76ICV,0,Multi-Cuisine,24.37,29-04-2023,active
+188,7,Rest_PT11F9,0,Chinese,21.64,22-03-2023,active
+189,6,Rest_I59SOJ,0,South Indian,17.77,04-06-2023,active
+190,7,Rest_UBMXNS,0,Bakery,14.43,17-06-2023,active
+191,3,Rest_1R4KZ3,0,Café,19.77,02-02-2023,inactive
+192,3,Rest_NJLCQN,0,Fast Food,26.28,06-08-2023,active
+193,1,Rest_5G10UR,0,Fast Food,23.07,30-03-2023,inactive
+194,1,Rest_HG0016,0,Bakery,15.77,10-02-2023,active
+195,6,Rest_1NTMJS,0,North Indian,22.87,04-01-2023,active
+196,6,Rest_6NOUHF,0,Multi-Cuisine,23.93,09-11-2022,active
+197,5,Rest_FLN4RX,0,Fast Food,17.58,25-12-2022,inactive
+198,8,Rest_Q0MFTG,0,Fast Food,22.77,07-12-2022,active
+199,2,Rest_8Y1O4I,0,Multi-Cuisine,22.29,13-05-2023,active
+200,6,Rest_CW76XA,0,North Indian,16.29,26-08-2023,active
+201,5,Rest_TKSZP7,0,Multi-Cuisine,23.79,07-12-2022,active
+202,4,Rest_WJM2C8,0,Healthy/Continental,24.8,09-05-2023,active
+203,2,Rest_X41DNT,1,Multi-Cuisine,27.42,06-06-2023,active
+204,7,Rest_XL9967,0,Multi-Cuisine,27.27,01-01-2023,active
+205,2,Rest_YKTXG4,1,Bakery,15.11,05-11-2022,active
+206,7,Rest_7KUU4Y,0,Café,17.31,22-06-2023,active
+207,2,Rest_S9BP4M,0,North Indian,24.58,10-02-2023,inactive
+208,6,Rest_BJ9RM7,0,Fast Food,24.57,19-02-2023,active
+209,5,Rest_2ZCFZW,0,South Indian,24.58,01-03-2023,active
+210,1,Rest_7Q1DDP,0,Multi-Cuisine,35,05-02-2023,active
+211,2,Rest_MDVLNK,0,Café,24.85,19-11-2022,active
+212,4,Rest_UGNEKR,1,Multi-Cuisine,27.68,13-04-2023,active
+213,8,Rest_2N7ZRW,0,Chinese,26.77,30-03-2023,active
+214,7,Rest_LW2LM3,0,Fast Food,25.26,24-06-2023,active
+215,4,Rest_RGOL0W,0,Chinese,20.42,19-03-2023,active
+216,7,Rest_N7H9G1,1,Healthy/Continental,25.79,17-05-2023,active
+217,5,Rest_3C42YF,0,Bakery,18.14,15-06-2023,active
+218,7,Rest_C9ROS7,0,Chinese,20.82,14-08-2023,active
+219,6,Rest_Z3V6DI,0,Chinese,19.57,05-10-2022,active
+220,7,Rest_8L2DDH,0,Bakery,22.41,08-11-2022,active
+221,4,Rest_QO1VSM,1,Chinese,33.57,03-04-2023,active
+222,2,Rest_E7FLQH,0,Fast Food,12.66,14-07-2023,active
+223,8,Rest_LK3E4X,0,Multi-Cuisine,25.43,30-04-2023,active
+224,3,Rest_LPQ2WG,0,Café,13.94,18-08-2023,active
+225,4,Rest_QPAHKZ,0,Bakery,19.64,11-07-2023,active
+226,3,Rest_NHEYR8,0,North Indian,27.44,24-10-2022,active
+227,2,Rest_M4W3ZK,0,Chinese,22.32,25-06-2023,active
+228,4,Rest_KGYSPE,0,Multi-Cuisine,16.61,26-12-2022,active
+229,3,Rest_TRFLQB,0,South Indian,18.42,27-12-2022,active
+230,7,Rest_8SRYO4,0,South Indian,25.4,16-11-2022,active
+231,4,Rest_KJTGQ0,0,Fast Food,18.35,14-12-2022,active
+232,2,Rest_JT9T11,0,Bakery,23.08,27-01-2023,active
+233,4,Rest_K9QM3P,0,Café,22.23,17-05-2023,active
+234,6,Rest_4VPW23,0,Multi-Cuisine,18.74,06-03-2023,active
+235,3,Rest_LZKJ49,0,Healthy/Continental,32.72,24-06-2023,inactive
+236,7,Rest_795E5I,0,South Indian,25.17,12-02-2023,active
+237,5,Rest_WNC21O,0,Chinese,11.87,12-01-2023,inactive
+238,6,Rest_U54D8W,0,Healthy/Continental,22.93,02-12-2022,active
+239,7,Rest_3RLKTE,0,Café,18.69,08-08-2023,active
+240,8,Rest_A7FQ9P,0,Chinese,26.26,04-10-2022,active
+241,5,Rest_DMCXXB,0,Healthy/Continental,18.04,25-01-2023,active
+242,2,Rest_AREIYA,0,Healthy/Continental,21.43,28-01-2023,active
+243,8,Rest_CN0DL5,1,Multi-Cuisine,24.52,08-10-2022,inactive
+244,3,Rest_CUVFMH,0,Healthy/Continental,26.33,21-10-2022,active
+245,4,Rest_DD1VN8,0,Multi-Cuisine,16,28-04-2023,active
+246,2,Rest_IVZK7A,0,Chinese,20.33,19-05-2023,active
+247,4,Rest_0KB68R,1,North Indian,19.63,10-10-2022,active
+248,1,Rest_97E4UN,0,South Indian,18.73,26-07-2023,active
+249,2,Rest_AH78OK,0,South Indian,30.83,28-01-2023,active
+250,2,Rest_XTFDC7,0,Bakery,24.02,01-12-2022,active
+251,2,Rest_LP8II7,1,Fast Food,15.7,25-10-2022,active
+252,3,Rest_EZZF8S,0,Fast Food,26.59,08-06-2023,active
+253,5,Rest_0E6MPS,0,Fast Food,32.61,15-10-2022,active
+254,8,Rest_SB4GF1,0,Café,27.16,08-05-2023,active
+255,1,Rest_B5IQNF,0,North Indian,14.4,22-11-2022,active
+256,7,Rest_II6L3U,1,Chinese,19.58,02-06-2023,active
+257,1,Rest_8CQK4L,0,Chinese,28.33,25-02-2023,active
+258,5,Rest_0IN891,0,Multi-Cuisine,18.46,29-04-2023,active
+259,7,Rest_ATWYAM,0,Multi-Cuisine,24.22,28-03-2023,active
+260,4,Rest_P89FKB,0,Chinese,25.87,02-02-2023,active
+261,6,Rest_Q0USWO,0,Café,17.37,22-01-2023,active
+262,3,Rest_IJL2Z0,0,Chinese,21.7,05-05-2023,active
+263,4,Rest_E1DDQL,1,Fast Food,10,18-05-2023,active
+264,8,Rest_JEFY3Z,1,Café,16.88,18-06-2023,active
+265,4,Rest_8OBK3G,0,Fast Food,20.74,21-11-2022,active
+266,4,Rest_DD2EC2,0,North Indian,15.76,08-02-2023,active
+267,2,Rest_UJ3AC6,0,Bakery,30.16,16-07-2023,active
+268,6,Rest_E7B7P0,0,Multi-Cuisine,14.85,26-01-2023,active
+269,4,Rest_6JQFWW,0,North Indian,19.8,03-02-2023,active
+270,8,Rest_CKEH5S,0,Café,22.65,23-08-2023,inactive
+271,6,Rest_R2MULJ,1,Fast Food,29.21,12-05-2023,active
+272,5,Rest_C9T199,1,North Indian,14.82,18-04-2023,active
+273,1,Rest_18U9N7,0,Bakery,27.82,03-06-2023,active
+274,6,Rest_3Z6BZ8,0,Chinese,22.05,28-05-2023,active
+275,8,Rest_TGBCVA,0,Café,17.09,22-10-2022,active
+276,3,Rest_MG25CF,0,Chinese,24.31,07-07-2023,active
+277,6,Rest_8N7ODK,1,Chinese,23,21-01-2023,active
+278,8,Rest_XG8Y72,0,South Indian,19,04-06-2023,active
+279,5,Rest_E088O9,0,Multi-Cuisine,22.35,31-05-2023,active
+280,4,Rest_XDRLCM,0,Healthy/Continental,20.07,09-10-2022,active
+281,6,Rest_QJICJD,1,North Indian,22.57,20-01-2023,active
+282,3,Rest_5RNTDR,0,Café,25.31,10-06-2023,active
+283,1,Rest_KL8CGN,0,Healthy/Continental,29.93,16-07-2023,active
+284,8,Rest_ZPXVPB,0,Multi-Cuisine,15.81,04-02-2023,active
+285,5,Rest_XKDOTR,1,Multi-Cuisine,32.67,26-01-2023,active
+286,8,Rest_HAGKC4,0,Café,12.24,03-01-2023,active
+287,5,Rest_DTG5NQ,0,Healthy/Continental,21.24,20-04-2023,active
+288,5,Rest_UFZDY3,0,South Indian,24.94,08-05-2023,active
+289,7,Rest_3PT5R5,0,Chinese,23.4,11-02-2023,active
+290,1,Rest_S62YWE,0,Multi-Cuisine,18.89,08-06-2023,inactive
+291,4,Rest_EP9P9W,0,Fast Food,20.96,22-03-2023,active
+292,2,Rest_DUT4S7,1,Café,19.53,05-11-2022,active
+293,7,Rest_EFUU8D,1,Chinese,19.05,08-04-2023,active
+294,6,Rest_5JXURG,0,Bakery,26.25,25-10-2022,active
+295,7,Rest_B6LI07,0,Café,23.79,13-03-2023,active
+296,5,Rest_L44Y9I,0,North Indian,18.54,21-03-2023,active
+297,7,Rest_VDP6OR,0,Multi-Cuisine,26.5,04-08-2023,active
+298,3,Rest_CZO2SU,0,Café,23.54,03-08-2023,active
+299,8,Rest_BMHNQO,0,Multi-Cuisine,26.06,01-05-2023,active
+300,8,Rest_G5VMF6,0,Multi-Cuisine,25.15,09-04-2023,active
+301,1,Rest_FU84XY,0,Café,17.86,13-12-2022,active
+302,1,Rest_REG2IV,0,Bakery,19.2,28-01-2023,active
+303,6,Rest_QHKSWV,1,South Indian,25.74,18-11-2022,active
+304,5,Rest_KDC9X5,0,Fast Food,25.05,28-05-2023,active
+305,4,Rest_622VXY,0,Multi-Cuisine,21.9,03-04-2023,active
+306,7,Rest_O0U93M,0,Fast Food,22.59,10-10-2022,active
+307,6,Rest_S445GD,1,Café,28.39,19-11-2022,active
+308,3,Rest_86XII5,0,Café,19.04,23-02-2023,active
+309,5,Rest_QEBWUW,0,Multi-Cuisine,24.74,19-12-2022,active
+310,7,Rest_TO5F9M,0,South Indian,20.99,20-06-2023,active
+311,3,Rest_2RWGWA,0,Fast Food,20.91,10-11-2022,active
+312,8,Rest_22EPPP,0,Healthy/Continental,27.49,13-08-2023,active
+313,6,Rest_861TAA,0,Multi-Cuisine,26.13,09-03-2023,active
+314,2,Rest_NVG3KK,0,Healthy/Continental,26.07,07-12-2022,active
+315,3,Rest_M6MG87,0,Café,28.53,10-05-2023,active
+316,3,Rest_HASEZ2,0,South Indian,22.11,02-12-2022,active
+317,1,Rest_XXAYPN,0,Fast Food,25.41,15-06-2023,active
+318,1,Rest_KXXJVE,0,Multi-Cuisine,20.45,14-12-2022,active
+319,2,Rest_K2RV23,0,South Indian,23.62,04-02-2023,active
+320,1,Rest_T6YRIA,1,Fast Food,21.35,12-11-2022,active
+321,3,Rest_82C06X,0,Multi-Cuisine,22.48,19-04-2023,active
+322,2,Rest_354MYP,1,Multi-Cuisine,24.98,28-08-2023,active
+323,3,Rest_L68J0N,0,Bakery,17.91,08-02-2023,active
+324,8,Rest_JN42X2,1,Bakery,32.46,12-06-2023,active
+325,8,Rest_2YGNMB,0,Multi-Cuisine,16.97,28-12-2022,active
+326,2,Rest_5PCXA5,0,Café,15.93,16-11-2022,active
+327,6,Rest_SYWP0R,0,Multi-Cuisine,27.79,17-06-2023,active
+328,1,Rest_A7SQRF,0,Bakery,25.96,01-05-2023,active
+329,5,Rest_BIXOIQ,0,Chinese,25.12,18-07-2023,active
+330,8,Rest_L90AOB,0,Fast Food,25.14,27-10-2022,inactive
+331,5,Rest_6UXQM3,0,Café,21.94,16-03-2023,active
+332,8,Rest_ZNQDXA,0,Fast Food,17.51,25-11-2022,active
+333,2,Rest_BFFZZD,0,North Indian,22.38,02-07-2023,active
+334,7,Rest_H3GM1B,0,North Indian,18.61,30-06-2023,active
+335,8,Rest_QVS8A0,0,Chinese,26.88,06-11-2022,active
+336,3,Rest_YG3DXV,0,Fast Food,21.26,30-01-2023,inactive
+337,4,Rest_J88QEO,0,South Indian,17.87,01-04-2023,active
+338,6,Rest_Z7WHWK,0,South Indian,20.39,04-10-2022,inactive
+339,3,Rest_SYLEMR,0,Fast Food,24.06,02-12-2022,active
+340,7,Rest_3SAFYH,0,Multi-Cuisine,19.18,08-04-2023,active
+341,3,Rest_4YK1B3,1,Healthy/Continental,17.89,10-05-2023,active
+342,7,Rest_I22KX7,0,North Indian,23.22,23-11-2022,active
+343,5,Rest_H54PIW,0,Fast Food,23.22,04-11-2022,active
+344,4,Rest_18KGYG,0,Café,19.47,02-07-2023,active
+345,7,Rest_KJF4AQ,0,South Indian,19.64,15-06-2023,active
+346,1,Rest_1W4K2T,1,Multi-Cuisine,23.16,06-12-2022,active
+347,3,Rest_S2FTOM,0,Healthy/Continental,14.76,16-03-2023,active
+348,4,Rest_8WRU1X,1,Fast Food,14.96,16-01-2023,active
+349,4,Rest_8YL68N,0,Fast Food,18.41,20-08-2023,active
+350,6,Rest_SSRKXL,1,South Indian,20.93,08-06-2023,inactive
+351,1,Rest_WHWHY4,0,Chinese,23.55,05-10-2022,active
+352,2,Rest_0FQLDB,0,Chinese,29.38,27-07-2023,active
+353,4,Rest_6OQOLO,1,Chinese,26.29,08-10-2022,active
+354,2,Rest_1VZC7D,0,Fast Food,21.2,26-10-2022,active
+355,8,Rest_N3BFH0,0,Chinese,21.9,03-04-2023,inactive
+356,3,Rest_K585X8,1,North Indian,16.99,21-06-2023,active
+357,1,Rest_UOTDH0,0,Multi-Cuisine,21.91,02-02-2023,active
+358,3,Rest_FH4GG2,0,Healthy/Continental,20.56,08-01-2023,active
+359,2,Rest_KCD0RL,1,Bakery,23.61,12-07-2023,active
+360,2,Rest_6LQWLV,0,Fast Food,17.86,24-03-2023,inactive
+361,3,Rest_AIH0P4,1,Healthy/Continental,24.6,30-12-2022,active
+362,6,Rest_1RDXCK,0,North Indian,29.66,24-05-2023,active
+363,2,Rest_064W3U,0,Fast Food,21.46,14-08-2023,active
+364,8,Rest_XFO6V4,1,North Indian,24.01,14-12-2022,active
+365,6,Rest_SX43WF,0,North Indian,25.45,12-06-2023,active
+366,3,Rest_0RMHRC,0,Café,19.99,19-05-2023,active
+367,6,Rest_N75BXD,0,Multi-Cuisine,23.12,20-04-2023,active
+368,3,Rest_NNV6CJ,0,Bakery,22.06,11-12-2022,active
+369,6,Rest_RRVSFF,1,Multi-Cuisine,22.49,16-05-2023,active
+370,3,Rest_NZEI3Z,0,Bakery,18.13,30-12-2022,active
+371,3,Rest_XOIEVE,0,Healthy/Continental,22.12,18-06-2023,active
+372,5,Rest_7SO8W5,0,Chinese,24.49,20-07-2023,active
+373,8,Rest_5G3V23,0,North Indian,29.26,19-04-2023,active
+374,6,Rest_7VCNEA,0,Fast Food,26.8,30-01-2023,active
+375,2,Rest_G6V5T1,1,Café,32.77,28-10-2022,active
+376,1,Rest_61XSNB,0,Multi-Cuisine,18.16,29-12-2022,active
+377,7,Rest_M264UP,0,Fast Food,26.36,21-07-2023,active
+378,7,Rest_JA0ASS,0,Café,22.92,24-03-2023,active
+379,2,Rest_FXJ4PN,0,North Indian,32.95,20-05-2023,active
+380,8,Rest_GUR9U1,0,Multi-Cuisine,17.96,03-07-2023,active
+381,8,Rest_28DS22,0,North Indian,17.8,11-06-2023,active
+382,1,Rest_23QVDJ,0,Fast Food,19,13-08-2023,active
+383,7,Rest_WSZV83,0,Café,11.38,27-08-2023,active
+384,5,Rest_H2SZWY,0,Healthy/Continental,19.37,13-06-2023,active
+385,5,Rest_2MOVS0,1,South Indian,18.2,24-11-2022,active
+386,6,Rest_M3I8QO,1,Chinese,22.75,05-02-2023,active
+387,2,Rest_SMESJT,0,Chinese,23.71,18-01-2023,inactive
+388,8,Rest_118QQV,1,North Indian,31.38,22-04-2023,active
+389,4,Rest_YIL8SA,0,North Indian,26.75,07-04-2023,active
+390,6,Rest_C7RM6J,0,Healthy/Continental,19.12,20-12-2022,active
+391,4,Rest_05HHIW,0,South Indian,17.51,02-07-2023,active
+392,8,Rest_W1TBRW,0,Fast Food,24.46,14-04-2023,active
+393,5,Rest_O1ESP7,1,Chinese,15.4,12-02-2023,active
+394,3,Rest_QESLAY,0,South Indian,31.16,19-03-2023,active
+395,5,Rest_GJJ8MG,0,Café,27.9,23-02-2023,active
+396,7,Rest_KGEUID,0,Chinese,19.65,21-11-2022,active
+397,7,Rest_H20RAP,1,Healthy/Continental,13.43,02-12-2022,active
+398,8,Rest_KUUOYC,0,South Indian,28.77,14-10-2022,active
+399,6,Rest_JMU3MO,0,Chinese,21.43,23-05-2023,active
+400,3,Rest_9KLS1Q,1,Café,28.19,08-04-2023,active
+401,3,Rest_5X7PWO,0,Café,14.03,11-06-2023,active
+402,6,Rest_LKJXJQ,0,Café,19,05-11-2022,active
+403,8,Rest_OGA0X7,0,Multi-Cuisine,22.03,17-05-2023,active
+404,2,Rest_D7RB1S,0,Fast Food,22.23,20-04-2023,active
+405,2,Rest_X5LIKW,1,Café,19.75,18-08-2023,active
+406,6,Rest_4LR9TJ,0,South Indian,25.11,03-06-2023,active
+407,8,Rest_WWUSXL,0,Multi-Cuisine,16.66,08-05-2023,active
+408,8,Rest_LOFAS1,1,North Indian,21.29,04-01-2023,active
+409,8,Rest_8RAPKI,1,North Indian,22.6,28-05-2023,active
+410,7,Rest_OF0ONJ,0,Healthy/Continental,24.57,11-12-2022,active
+411,5,Rest_K03O4G,0,North Indian,25.56,20-10-2022,active
+412,8,Rest_GABTGD,0,Multi-Cuisine,16.38,28-08-2023,active
+413,3,Rest_AHP2RN,0,Café,14.33,16-03-2023,active
+414,3,Rest_C1CQG4,0,South Indian,28.39,01-07-2023,inactive
+415,4,Rest_N9I9H0,1,North Indian,23.66,02-01-2023,active
+416,5,Rest_7F00TE,0,Healthy/Continental,18.26,23-05-2023,active
+417,1,Rest_5HEWLG,0,South Indian,29.76,11-02-2023,active
+418,1,Rest_8UYYF1,0,North Indian,22.58,17-07-2023,active
+419,6,Rest_79WCXZ,0,Multi-Cuisine,27.9,26-12-2022,active
+420,6,Rest_2PGYME,0,Multi-Cuisine,22.34,20-01-2023,active
+421,8,Rest_GGM0J3,0,Fast Food,32.3,11-06-2023,active
+422,3,Rest_Q3TQ1S,0,South Indian,30.78,19-10-2022,active
+423,4,Rest_LC83GY,0,North Indian,20.76,23-10-2022,active
+424,7,Rest_XDSC4E,0,Healthy/Continental,26.86,09-07-2023,active
+425,2,Rest_BXNRWV,1,Healthy/Continental,25.23,26-10-2022,active
+426,1,Rest_7HR6C2,1,Café,28.84,01-02-2023,active
+427,1,Rest_3JBCK8,0,Multi-Cuisine,17.18,12-07-2023,active
+428,7,Rest_GSIWG0,0,Fast Food,25.43,10-10-2022,active
+429,8,Rest_ZPD2TS,0,Healthy/Continental,27.29,29-10-2022,active
+430,6,Rest_6T94OW,0,South Indian,13.21,25-10-2022,active
+431,4,Rest_NT0MQ8,1,Healthy/Continental,16.08,09-04-2023,active
+432,3,Rest_9KKH4A,0,Multi-Cuisine,11.8,22-11-2022,active
+433,3,Rest_DQFJ6I,0,North Indian,20.65,16-07-2023,active
+434,4,Rest_002G3Y,0,South Indian,25.59,01-11-2022,active
+435,1,Rest_0UCC1M,0,North Indian,29.51,02-07-2023,active
+436,4,Rest_047WWB,0,Healthy/Continental,22.37,29-11-2022,active
+437,6,Rest_SHB0OQ,0,Multi-Cuisine,30.14,17-07-2023,active
+438,5,Rest_2FMR0T,0,Bakery,15.1,19-12-2022,active
+439,3,Rest_1RHOUU,0,Café,13.48,28-04-2023,active
+440,5,Rest_1L7DYP,0,South Indian,21.72,09-03-2023,active
+441,1,Rest_1GM32W,0,Multi-Cuisine,23.92,22-05-2023,active
+442,3,Rest_14EB87,0,Healthy/Continental,21.84,25-08-2023,active
+443,2,Rest_KQL0HT,0,Fast Food,11.66,28-12-2022,active
+444,3,Rest_ZYN6SJ,1,Healthy/Continental,21.55,20-10-2022,active
+445,8,Rest_XANJ4X,0,Fast Food,15.48,05-04-2023,active
+446,7,Rest_IN9DL5,0,Café,25.35,23-05-2023,active
+447,8,Rest_UZB7KR,0,Fast Food,23.83,08-03-2023,active
+448,6,Rest_WI9S3W,0,Café,17.3,21-11-2022,active
+449,4,Rest_F6XDN8,0,Fast Food,19.43,31-01-2023,active
+450,3,Rest_PLVQEX,0,Fast Food,16.7,23-06-2023,active
+451,3,Rest_P61XUF,1,Chinese,21.69,03-07-2023,active
+452,3,Rest_015OOP,0,Healthy/Continental,26.78,16-06-2023,active
+453,2,Rest_EA9WVW,0,South Indian,17.07,19-08-2023,active
+454,8,Rest_E4QXGN,0,Café,24.52,26-05-2023,active
+455,7,Rest_1AJO09,0,Healthy/Continental,19.35,03-06-2023,active
+456,8,Rest_5RLQIO,1,North Indian,18.04,25-03-2023,active
+457,1,Rest_SQ3B9S,0,South Indian,21.46,20-11-2022,active
+458,1,Rest_GP51KF,0,Multi-Cuisine,16.82,11-12-2022,active
+459,8,Rest_3Q0E27,0,Fast Food,19.23,12-02-2023,active
+460,8,Rest_AQ665D,0,Chinese,16.01,30-06-2023,active
+461,8,Rest_WDZ09W,0,Multi-Cuisine,31.82,19-02-2023,active
+462,3,Rest_6UXF5G,0,Multi-Cuisine,22.18,28-03-2023,active
+463,8,Rest_KG68A1,1,Multi-Cuisine,18.5,20-12-2022,active
+464,1,Rest_VRHXQP,0,Chinese,23.07,29-04-2023,active
+465,5,Rest_WU3BFX,1,Café,21.44,10-11-2022,active
+466,5,Rest_LDD9FK,0,Bakery,20.9,12-11-2022,active
+467,3,Rest_80MB1L,0,Bakery,25.07,26-01-2023,active
+468,2,Rest_KEZJSS,0,Healthy/Continental,25.79,03-08-2023,active
+469,2,Rest_RY79KV,0,Fast Food,19.35,11-11-2022,inactive
+470,6,Rest_7WR0R3,0,Chinese,19.12,06-04-2023,inactive
+471,1,Rest_EQ20HW,0,Fast Food,20.62,15-03-2023,active
+472,4,Rest_AHK2LS,0,Chinese,10.49,05-07-2023,active
+473,6,Rest_OU83G4,0,Fast Food,14.42,02-01-2023,active
+474,3,Rest_RW6TM2,0,Bakery,28.83,09-12-2022,active
+475,6,Rest_TAUL62,1,North Indian,30.22,11-04-2023,active
+476,6,Rest_9W4UOV,0,Healthy/Continental,20.75,24-03-2023,active
+477,5,Rest_ORIQ8H,0,South Indian,24.88,22-02-2023,active
+478,4,Rest_6PARSG,0,Bakery,23.56,27-03-2023,active
+479,3,Rest_1D9S9H,1,South Indian,35,08-12-2022,active
+480,5,Rest_7YVDQB,0,Healthy/Continental,27.6,21-08-2023,active
+481,5,Rest_WHHKT1,0,Healthy/Continental,21.36,17-06-2023,active
+482,2,Rest_AWSHML,1,Bakery,17.22,12-11-2022,active
+483,2,Rest_L6TBB6,1,North Indian,13.97,05-08-2023,active
+484,7,Rest_GVV4ZW,0,Café,23.02,02-12-2022,active
+485,8,Rest_UD2ZDL,0,South Indian,18.22,04-01-2023,active
+486,4,Rest_F6JNG7,0,Bakery,14.89,12-01-2023,active
+487,2,Rest_RMQG1V,1,Multi-Cuisine,18.77,06-02-2023,active
+488,2,Rest_LX2TOO,0,Café,16.59,12-06-2023,inactive
+489,7,Rest_CHYP9U,0,Healthy/Continental,30.44,05-06-2023,active
+490,2,Rest_0Z4EVL,1,North Indian,26.41,03-06-2023,active
+491,7,Rest_CD31NR,0,South Indian,21.96,13-05-2023,active
+492,1,Rest_1XQKWQ,0,Fast Food,29.4,01-04-2023,active
+493,5,Rest_77Z69U,0,Healthy/Continental,22.39,07-02-2023,active
+494,5,Rest_C68AU9,1,Fast Food,17.69,17-08-2023,active
+495,7,Rest_WZOPHG,1,Healthy/Continental,29.62,17-02-2023,active
+496,6,Rest_4F9YEC,1,Healthy/Continental,24.69,21-01-2023,inactive
+497,3,Rest_DXOQ2V,0,Healthy/Continental,16.81,12-01-2023,active
+498,8,Rest_NIPAR0,0,Fast Food,21.05,03-02-2023,active
+499,6,Rest_BBRNU8,1,Multi-Cuisine,17.62,11-04-2023,active
+500,2,Rest_SVIWXY,0,North Indian,15.09,09-11-2022,active
+501,1,Rest_6TAQ6U,0,Multi-Cuisine,26.63,04-04-2023,active
+502,1,Rest_ZVK2JW,0,Café,31.55,06-08-2023,active
+503,5,Rest_3WKCS4,0,Chinese,15.01,21-10-2022,active
+504,5,Rest_AEGVFQ,0,North Indian,24.81,04-05-2023,active
+505,1,Rest_MDF7FR,0,Café,18.75,03-05-2023,active
+506,3,Rest_H0MX1E,0,Fast Food,19.56,01-01-2023,active
+507,4,Rest_NZRF5A,0,Multi-Cuisine,19.04,18-02-2023,active
+508,1,Rest_DTM4VX,0,Multi-Cuisine,17.68,18-04-2023,active
+509,5,Rest_XO100V,0,North Indian,22.24,01-06-2023,active
+510,1,Rest_Y3ADDQ,0,South Indian,17.85,26-04-2023,active
+511,1,Rest_WCV6HV,1,Café,23.35,19-07-2023,active
+512,3,Rest_N1X2GD,0,Chinese,21.75,05-01-2023,active
+513,2,Rest_W7JP61,0,North Indian,20.81,26-07-2023,active
+514,1,Rest_NLC8JP,0,Chinese,17.46,24-10-2022,active
+515,8,Rest_DTPWDP,0,Fast Food,19.12,26-07-2023,active
+516,5,Rest_1ARXAB,0,Fast Food,25.78,17-03-2023,active
+517,1,Rest_S7RP42,0,South Indian,24.5,09-05-2023,active
+518,8,Rest_ET9MKB,0,North Indian,17.11,26-02-2023,active
+519,6,Rest_CQ1XGB,0,North Indian,22.5,01-04-2023,active
+520,2,Rest_WMDW0F,0,Café,25.76,02-05-2023,active
+521,2,Rest_2XR838,1,Fast Food,13.65,04-08-2023,active
+522,1,Rest_OHXS75,0,Fast Food,24.72,05-05-2023,active
+523,1,Rest_0RA6WI,0,Healthy/Continental,18.69,05-06-2023,active
+524,5,Rest_3DW4C3,1,Café,24.85,21-10-2022,active
+525,4,Rest_P39YL9,0,Café,18.18,21-03-2023,active
+526,4,Rest_1VMEFO,0,North Indian,12.98,09-06-2023,active
+527,1,Rest_E2WNF5,1,Chinese,13.86,02-06-2023,active
+528,5,Rest_O31YHX,0,South Indian,22.24,02-05-2023,active
+529,1,Rest_VZWD3K,0,Café,23.3,04-05-2023,active
+530,2,Rest_W59SQW,0,North Indian,17.48,25-05-2023,active
+531,3,Rest_Y8RGYB,0,Café,25.19,17-05-2023,active
+532,6,Rest_W6QDBT,0,Healthy/Continental,13.69,27-12-2022,active
+533,2,Rest_6ZVLHY,0,Bakery,21.67,19-03-2023,active
+534,4,Rest_05NHQR,0,Café,15.94,14-05-2023,active
+535,8,Rest_GNQGMJ,0,Healthy/Continental,18.74,14-11-2022,active
+536,3,Rest_DQP1HK,0,Bakery,22.24,06-06-2023,active
+537,4,Rest_D4R9V4,0,Café,17.7,28-04-2023,active
+538,7,Rest_U6VFUA,0,South Indian,20.08,04-01-2023,active
+539,1,Rest_PO3ZDR,1,Fast Food,27.03,05-02-2023,active
+540,3,Rest_MI9AYF,0,Bakery,19.12,07-11-2022,active
+541,8,Rest_QEZG5W,0,Multi-Cuisine,26.18,15-10-2022,active
+542,6,Rest_TK1ZWU,0,North Indian,16.35,19-10-2022,active
+543,1,Rest_S6NBNQ,1,Bakery,24.65,04-06-2023,active
+544,2,Rest_U1EMTX,0,Bakery,29.21,17-05-2023,active
+545,4,Rest_L6SPBN,0,Multi-Cuisine,10,06-12-2022,active
+546,8,Rest_ZYTKW2,0,South Indian,18.02,28-05-2023,active
+547,8,Rest_DOG8CF,1,Fast Food,24.89,21-12-2022,active
+548,4,Rest_SWK8TE,0,Café,20.98,06-10-2022,active
+549,4,Rest_C5I8XO,0,Fast Food,23.86,27-12-2022,active
+550,8,Rest_QU6L2I,0,South Indian,18.98,08-08-2023,active
+551,5,Rest_QF7ZK9,0,Café,22.43,11-06-2023,active
+552,1,Rest_9UPNHZ,0,Healthy/Continental,21.22,18-06-2023,active
+553,3,Rest_TEA718,0,Bakery,27.84,30-08-2023,inactive
+554,6,Rest_XK6819,0,Multi-Cuisine,23.27,18-01-2023,active
+555,2,Rest_06FTLO,0,Fast Food,23.69,03-03-2023,active
+556,1,Rest_VHS21H,1,Café,19.94,19-07-2023,inactive
+557,7,Rest_HLV76M,1,Fast Food,19.56,24-02-2023,active
+558,1,Rest_KM95D0,0,Multi-Cuisine,19.84,18-01-2023,active
+559,7,Rest_0O4VFK,0,South Indian,23.97,14-03-2023,active
+560,7,Rest_DO6OUZ,0,Chinese,19.9,22-05-2023,active
+561,7,Rest_KR3KVR,0,Fast Food,23.45,19-08-2023,active
+562,3,Rest_J84RX6,0,Chinese,32.38,06-10-2022,active
+563,2,Rest_1R8VNR,0,Café,26.36,15-10-2022,active
+564,2,Rest_N0AJUF,0,Multi-Cuisine,20.37,03-03-2023,active
+565,5,Rest_NW8BKX,1,South Indian,28.01,15-10-2022,active
+566,2,Rest_VGLL42,0,Bakery,19.96,14-07-2023,active
+567,6,Rest_3ASNRM,0,North Indian,11.81,13-05-2023,active
+568,4,Rest_32UY84,0,Bakery,16.96,31-01-2023,active
+569,2,Rest_EEAMYF,0,Multi-Cuisine,12.65,08-12-2022,active
+570,6,Rest_GK0EEY,0,Fast Food,20.24,29-06-2023,active
+571,2,Rest_P1EARP,0,Chinese,22.09,13-12-2022,active
+572,8,Rest_EJCY12,0,South Indian,30.38,05-11-2022,active
+573,3,Rest_YBF0JU,0,Bakery,23.63,23-10-2022,active
+574,2,Rest_DUAHGK,0,South Indian,20.9,30-08-2023,inactive
+575,2,Rest_774RZG,0,North Indian,26.15,01-06-2023,active
+576,7,Rest_PSO1LQ,0,South Indian,10.94,01-03-2023,active
+577,1,Rest_CRNQ0Y,0,Bakery,23.18,22-11-2022,active
+578,7,Rest_GC4RYG,0,Fast Food,25.85,10-07-2023,active
+579,2,Rest_EOZ906,0,Café,14.61,23-05-2023,active
+580,7,Rest_E40KZU,0,Multi-Cuisine,27.72,03-03-2023,active
+581,7,Rest_9SFQER,0,South Indian,23.69,17-08-2023,active
+582,1,Rest_3RAGVL,0,Fast Food,19.92,14-07-2023,active
+583,8,Rest_2HXRJM,0,North Indian,25.16,23-08-2023,inactive
+584,1,Rest_95EQ4P,1,Fast Food,33.35,20-11-2022,active
+585,5,Rest_5FPLO1,0,South Indian,22.91,22-11-2022,active
+586,8,Rest_R4SOR8,0,South Indian,23.24,09-04-2023,active
+587,1,Rest_VEN3V1,0,North Indian,19.7,14-07-2023,active
+588,6,Rest_OCIILD,0,Multi-Cuisine,17.75,05-07-2023,active
+589,1,Rest_TBXPSP,1,Chinese,26.15,04-11-2022,active
+590,6,Rest_NOU3DY,0,Café,17.72,12-03-2023,active
+591,5,Rest_NPR424,0,North Indian,22.36,19-04-2023,active
+592,7,Rest_2W8ZUV,0,Multi-Cuisine,19.61,04-12-2022,active
+593,4,Rest_MC3SKX,0,Multi-Cuisine,24.39,08-02-2023,active
+594,8,Rest_YT5WSG,0,Bakery,23.67,17-04-2023,active
+595,7,Rest_70CHQI,0,Bakery,27.19,22-01-2023,active
+596,2,Rest_W4JKFY,0,South Indian,19.45,05-07-2023,active
+597,1,Rest_I3QUPX,1,Café,20.65,15-04-2023,active
+598,5,Rest_2JTXB0,0,North Indian,17.11,21-07-2023,active
+599,5,Rest_56ONXD,0,Chinese,19.78,04-05-2023,active
+600,2,Rest_S387J5,0,Fast Food,23.89,25-03-2023,active
+601,7,Rest_307HDH,0,Café,25.78,24-04-2023,active
+602,1,Rest_RN8LPY,0,Multi-Cuisine,17.39,28-02-2023,active
+603,6,Rest_3A8V4X,0,South Indian,26.35,25-04-2023,active
+604,5,Rest_XZ6YTI,0,Chinese,28.78,12-02-2023,active
+605,5,Rest_K71K4F,0,South Indian,24.07,07-10-2022,active
+606,1,Rest_JC2R07,0,South Indian,31.38,12-07-2023,active
+607,5,Rest_SMV30Q,1,North Indian,18.13,08-10-2022,active
+608,8,Rest_2EOWLC,0,Chinese,15.78,04-10-2022,active
+609,7,Rest_2LR0JY,0,Chinese,13.11,23-05-2023,active
+610,6,Rest_G585I8,0,South Indian,29.48,16-10-2022,active
+611,2,Rest_9HZGOP,0,South Indian,25.27,25-02-2023,active
+612,2,Rest_AS173R,0,North Indian,21.72,27-05-2023,active
+613,5,Rest_KRE4V9,0,Multi-Cuisine,23.4,30-01-2023,active
+614,3,Rest_B9IQIU,0,Fast Food,16.37,27-08-2023,active
+615,6,Rest_9OHNPV,1,Café,34.23,02-08-2023,active
+616,4,Rest_QMVY2Z,0,Bakery,22.65,25-04-2023,active
+617,7,Rest_KON8UU,0,Multi-Cuisine,22.55,23-12-2022,active
+618,8,Rest_ELTFEB,1,Café,25.63,01-03-2023,active
+619,5,Rest_6J37SP,0,Healthy/Continental,24.41,16-06-2023,active
+620,8,Rest_BFIBJZ,0,Fast Food,23.12,12-08-2023,active
+621,8,Rest_QEZFMH,0,Multi-Cuisine,18.05,15-12-2022,active
+622,4,Rest_V8SUOC,0,Chinese,24.36,17-03-2023,active
+623,2,Rest_OV84FC,0,Healthy/Continental,31.41,12-01-2023,active
+624,5,Rest_VA8X8L,0,Multi-Cuisine,28.73,27-06-2023,active
+625,1,Rest_2K20TV,1,Healthy/Continental,29.97,02-06-2023,active
+626,7,Rest_D4F2K1,0,Chinese,19.44,02-04-2023,active
+627,7,Rest_076VMD,0,Chinese,17.05,25-12-2022,active
+628,7,Rest_RUP13W,0,South Indian,21.37,16-07-2023,active
+629,6,Rest_9YXZ7S,0,Fast Food,22.28,06-04-2023,active
+630,2,Rest_6RFE64,0,North Indian,27.47,14-11-2022,active
+631,2,Rest_7SSOQZ,0,Multi-Cuisine,13.54,24-04-2023,active
+632,1,Rest_EXGGOC,0,Café,29.65,25-03-2023,active
+633,8,Rest_1Q3M73,0,South Indian,21.21,27-10-2022,active
+634,2,Rest_PAOAXQ,0,Bakery,19.87,26-12-2022,active
+635,6,Rest_Y8Y2DE,0,Bakery,16.94,28-05-2023,active
+636,4,Rest_RFI44T,1,Healthy/Continental,13.73,18-06-2023,active
+637,1,Rest_E60QRA,0,Multi-Cuisine,26.12,21-05-2023,active
+638,7,Rest_BAWZ94,0,North Indian,22.37,22-11-2022,inactive
+639,1,Rest_RRVWY3,0,Chinese,15.55,05-12-2022,active
+640,6,Rest_TJX6EW,0,Chinese,15.52,21-01-2023,active
+641,5,Rest_0QPSVY,0,Fast Food,20.32,26-06-2023,active
+642,7,Rest_83Y022,0,Healthy/Continental,30.35,18-05-2023,active
+643,2,Rest_YEHVDO,0,North Indian,20.7,04-05-2023,active
+644,1,Rest_9MJYG4,0,Multi-Cuisine,14.48,13-03-2023,active
+645,4,Rest_EIJMMB,0,Fast Food,20.77,16-06-2023,active
+646,2,Rest_Z7PQ4D,1,Chinese,20.64,24-10-2022,active
+647,2,Rest_3BDW56,0,Healthy/Continental,10,18-01-2023,active
+648,8,Rest_0DXME4,0,North Indian,21.73,29-08-2023,active
+649,8,Rest_MSDN1M,0,Café,20.85,04-12-2022,active
+650,4,Rest_EP768S,0,Chinese,25.48,18-01-2023,active
+651,1,Rest_ZSCMO1,0,Café,31.24,14-08-2023,active
+652,3,Rest_6CWZXS,0,Café,27.63,22-11-2022,active
+653,6,Rest_6AKT7Z,0,South Indian,20.66,27-11-2022,active
+654,8,Rest_Z52OHK,1,Multi-Cuisine,16.47,14-02-2023,active
+655,3,Rest_STHSLM,0,South Indian,34.87,18-08-2023,active
+656,5,Rest_I109DC,0,Multi-Cuisine,22.3,04-03-2023,active
+657,2,Rest_QUAMI0,0,Café,22.07,01-11-2022,active
+658,5,Rest_K2ZYZS,0,North Indian,21.88,11-12-2022,active
+659,6,Rest_QFPODP,1,North Indian,22.99,16-01-2023,active
+660,7,Rest_VSOJRP,0,Chinese,21.28,31-01-2023,active
+661,3,Rest_SRQ8ST,0,Fast Food,19.13,02-01-2023,active
+662,3,Rest_7N8VOE,0,South Indian,19.27,08-12-2022,active
+663,6,Rest_KNKBF2,0,Chinese,21.84,09-04-2023,active
+664,8,Rest_ATCBRL,0,North Indian,19.28,20-02-2023,active
+665,3,Rest_1SQQQ5,0,Bakery,18.44,17-10-2022,active
+666,4,Rest_6MBYPJ,1,Healthy/Continental,22.53,20-08-2023,active
+667,5,Rest_UEUGWU,1,Chinese,20.73,08-12-2022,active
+668,8,Rest_SAXT8J,0,South Indian,29.52,17-01-2023,active
+669,6,Rest_OB5APO,0,Fast Food,10,18-02-2023,active
+670,2,Rest_9TKG1F,0,Multi-Cuisine,27.46,02-08-2023,active
+671,6,Rest_GZKDF6,0,Fast Food,28.23,06-08-2023,active
+672,4,Rest_R1NECQ,0,South Indian,11.63,18-08-2023,active
+673,4,Rest_6ATVD1,0,Café,20.29,30-03-2023,active
+674,8,Rest_DWH8N9,0,South Indian,20.14,28-01-2023,inactive
+675,8,Rest_B38WXG,1,Healthy/Continental,14.96,15-04-2023,active
+676,7,Rest_94H4KF,0,Fast Food,18.11,01-04-2023,active
+677,2,Rest_3095HS,0,North Indian,16.45,11-10-2022,active
+678,8,Rest_JXLH8L,0,Multi-Cuisine,30.76,06-10-2022,active
+679,8,Rest_AAGUZR,0,Multi-Cuisine,26.68,04-10-2022,active
+680,1,Rest_63QE8N,0,Healthy/Continental,28.36,03-06-2023,active
+681,1,Rest_ENGA01,0,Healthy/Continental,25.61,26-05-2023,active
+682,5,Rest_3H98BR,0,Bakery,16.35,17-05-2023,active
+683,7,Rest_DJSGG0,0,North Indian,19.38,16-11-2022,active
+684,3,Rest_0E7450,0,Multi-Cuisine,24.45,03-12-2022,active
+685,8,Rest_APYX4L,0,Chinese,15.89,14-04-2023,active
+686,8,Rest_RSBZB7,0,Café,25.56,30-08-2023,active
+687,6,Rest_CUA09P,1,Café,20.8,24-05-2023,active
+688,5,Rest_CWBPA2,0,Fast Food,20.13,28-04-2023,active
+689,4,Rest_833SIC,0,Fast Food,25.55,15-07-2023,active
+690,2,Rest_DCBL4C,1,Bakery,24.22,04-08-2023,active
+691,7,Rest_CYUKND,0,Multi-Cuisine,20.2,30-10-2022,active
+692,1,Rest_QQPWDX,0,North Indian,27.8,12-01-2023,active
+693,4,Rest_DAZV46,1,Café,16.59,23-04-2023,active
+694,8,Rest_0QI2CL,0,Fast Food,25.08,26-03-2023,active
+695,3,Rest_FLMNAV,0,North Indian,24.97,03-05-2023,active
+696,1,Rest_PHH62M,0,Bakery,20.45,29-10-2022,active
+697,6,Rest_WPFQ2B,0,Chinese,23.63,09-10-2022,active
+698,4,Rest_QHR133,0,Café,15.74,30-05-2023,active
+699,1,Rest_NCBEKG,0,Fast Food,26.62,10-08-2023,inactive
+700,4,Rest_HG5ZMT,0,Chinese,21.08,03-06-2023,active
+701,2,Rest_AYN2D7,0,North Indian,19.39,24-02-2023,active
+702,3,Rest_79955C,1,South Indian,27.25,27-05-2023,active
+703,7,Rest_YLPW71,0,Healthy/Continental,18.48,04-04-2023,active
+704,6,Rest_IWKESV,0,Chinese,14.96,04-01-2023,active
+705,2,Rest_GN51NS,0,Healthy/Continental,14.22,06-12-2022,active
+706,8,Rest_RUW2XH,0,North Indian,25.03,04-05-2023,active
+707,5,Rest_PNF4JD,0,Café,15.6,17-01-2023,active
+708,4,Rest_VQWPQO,0,Healthy/Continental,30.77,15-04-2023,active
+709,3,Rest_PJC6KS,0,Fast Food,11.59,13-04-2023,active
+710,2,Rest_EMTMYJ,0,North Indian,30.48,27-05-2023,active
+711,3,Rest_9106AK,0,Bakery,23.06,06-02-2023,active
+712,1,Rest_QS1FOI,0,Healthy/Continental,21.52,05-05-2023,active
+713,8,Rest_0Q2LG1,0,Bakery,19.28,20-01-2023,active
+714,1,Rest_NUE7A3,0,South Indian,24,09-05-2023,active
+715,7,Rest_1YKVUB,1,Bakery,21.81,15-11-2022,active
+716,7,Rest_9HOTGD,0,North Indian,27.52,09-10-2022,active
+717,2,Rest_GYG3VA,0,Café,22.57,09-04-2023,active
+718,5,Rest_XCCSG4,0,South Indian,22.75,07-07-2023,active
+719,7,Rest_RC85EH,0,Fast Food,20.18,12-06-2023,active
+720,5,Rest_VSYJAF,1,North Indian,21.72,27-10-2022,active
+721,6,Rest_65QU0K,0,Healthy/Continental,23.54,08-03-2023,active
+722,5,Rest_O34OGW,0,North Indian,13.45,31-05-2023,active
+723,2,Rest_O8I5JW,0,Chinese,15.26,13-05-2023,active
+724,7,Rest_9T9CD1,0,Healthy/Continental,25.72,09-06-2023,active
+725,1,Rest_QCZ0N0,0,Chinese,22.85,13-08-2023,active
+726,2,Rest_ZEYQQC,0,North Indian,21.08,22-06-2023,active
+727,5,Rest_4GADKT,0,Multi-Cuisine,22.09,27-08-2023,active
+728,3,Rest_PGZ6TP,1,Bakery,23.74,08-10-2022,active
+729,2,Rest_OLBA11,0,North Indian,19.3,02-05-2023,active
+730,1,Rest_P9MGYH,0,Café,18.11,08-06-2023,active
+731,2,Rest_3LWW7O,0,South Indian,22.98,15-05-2023,active
+732,6,Rest_GOLOQC,0,Café,17.11,25-02-2023,active
+733,4,Rest_O1R9Z2,0,Multi-Cuisine,24.04,06-06-2023,active
+734,2,Rest_V9ZY9Y,0,Multi-Cuisine,13.49,29-12-2022,active
+735,1,Rest_VVNXIV,0,Bakery,27.15,22-08-2023,active
+736,2,Rest_L01WCN,0,Bakery,24.36,21-02-2023,active
+737,1,Rest_I09P5E,0,Café,23.28,09-12-2022,active
+738,7,Rest_XKA4LI,0,North Indian,26.91,11-05-2023,active
+739,7,Rest_SGWCR8,1,South Indian,30.33,20-05-2023,active
+740,3,Rest_V37IC0,0,South Indian,27.07,29-04-2023,active
+741,4,Rest_KU8H5R,0,South Indian,12.8,10-02-2023,active
+742,8,Rest_PS0132,1,Healthy/Continental,15.6,26-01-2023,active
+743,5,Rest_VF0JQQ,0,North Indian,18.88,29-12-2022,active
+744,3,Rest_ZH6A50,0,Multi-Cuisine,22.13,01-02-2023,active
+745,6,Rest_NL9C59,1,Multi-Cuisine,24.59,10-06-2023,active
+746,7,Rest_811MZW,0,Multi-Cuisine,18.37,03-10-2022,active
+747,7,Rest_0IB3WY,0,North Indian,22.93,21-04-2023,active
+748,3,Rest_JV84A1,0,Fast Food,18.22,10-02-2023,active
+749,2,Rest_SGP3JK,0,Fast Food,18.94,05-11-2022,active
+750,7,Rest_175DU2,0,North Indian,14.97,17-05-2023,active
+751,7,Rest_ZAGRD1,0,Healthy/Continental,17.38,01-10-2022,active
+752,7,Rest_GNZHG8,0,South Indian,15.24,29-05-2023,active
+753,3,Rest_3G95P6,1,Bakery,17.12,23-07-2023,active
+754,7,Rest_ECBIR1,1,Chinese,27.27,29-08-2023,active
+755,1,Rest_DSAV91,0,Chinese,17.25,13-03-2023,active
+756,6,Rest_N6937X,0,Bakery,35,03-03-2023,active
+757,2,Rest_A5O47A,1,South Indian,24.47,11-04-2023,inactive
+758,4,Rest_NWXROG,0,Multi-Cuisine,22.92,24-08-2023,active
+759,1,Rest_80YIR0,0,Chinese,17.71,25-01-2023,active
+760,8,Rest_9460KH,1,Fast Food,25.5,13-11-2022,active
+761,1,Rest_E2KYT5,0,South Indian,19.12,04-07-2023,active
+762,4,Rest_IG7ZD9,1,Multi-Cuisine,22.61,17-02-2023,active
+763,4,Rest_ZX8YX7,0,Bakery,34.8,17-07-2023,active
+764,6,Rest_571VXN,0,Multi-Cuisine,21.52,02-10-2022,active
+765,7,Rest_3IEDD0,0,Fast Food,27.75,12-11-2022,active
+766,6,Rest_8UACT4,0,Multi-Cuisine,18.48,27-02-2023,active
+767,3,Rest_SVHOTQ,1,Multi-Cuisine,21.83,12-05-2023,active
+768,8,Rest_FK043B,0,Café,30.85,30-06-2023,active
+769,8,Rest_WHK8C3,0,South Indian,18.87,09-05-2023,active
+770,1,Rest_7140K3,0,Multi-Cuisine,31.06,21-08-2023,active
+771,6,Rest_PRMOC0,0,Café,25.54,25-11-2022,active
+772,3,Rest_L25B7K,0,Chinese,19.19,23-06-2023,active
+773,8,Rest_KFH00A,0,Multi-Cuisine,25.16,11-07-2023,active
+774,3,Rest_N9YGCM,0,Bakery,26.86,03-07-2023,inactive
+775,6,Rest_V8WOBI,0,South Indian,25.11,05-06-2023,active
+776,7,Rest_19YDQ3,0,Chinese,14.15,25-02-2023,active
+777,2,Rest_CRYSAU,0,South Indian,18.36,15-07-2023,active
+778,3,Rest_N9ZKEL,0,South Indian,20.76,30-05-2023,active
+779,1,Rest_O32TC4,0,Fast Food,21.63,18-05-2023,inactive
+780,2,Rest_GVGT2E,1,Multi-Cuisine,25.1,02-10-2022,active
+781,5,Rest_4B9SNT,0,Bakery,22.89,27-04-2023,active
+782,5,Rest_XQUZS9,0,South Indian,15.32,14-12-2022,active
+783,2,Rest_XBBF4H,1,Café,23.9,14-05-2023,active
+784,5,Rest_EWCJN6,0,Multi-Cuisine,25.05,24-04-2023,active
+785,3,Rest_TC09ZG,0,South Indian,24.8,27-10-2022,active
+786,3,Rest_L2N8IJ,0,Fast Food,27.4,05-02-2023,active
+787,2,Rest_NMJ5IA,0,South Indian,26.17,20-02-2023,inactive
+788,2,Rest_G0L3RT,0,Fast Food,24.3,23-11-2022,active
+789,2,Rest_6G8OM0,0,Fast Food,21.65,23-11-2022,active
+790,7,Rest_REASFE,0,North Indian,13.7,05-08-2023,active
+791,6,Rest_ZIVZG9,0,South Indian,24.15,08-04-2023,active
+792,7,Rest_SZ7IWD,0,North Indian,23.04,17-07-2023,active
+793,2,Rest_08FC0T,0,Healthy/Continental,23.36,27-01-2023,active
+794,3,Rest_RS95ZO,0,Healthy/Continental,15.62,27-01-2023,active
+795,6,Rest_I0835T,0,South Indian,16.59,15-01-2023,inactive
+796,4,Rest_GNEMBR,0,Chinese,27.27,12-03-2023,active
+797,4,Rest_344KRJ,1,Multi-Cuisine,21.8,12-02-2023,active
+798,5,Rest_78S676,0,South Indian,25.41,03-03-2023,active
+799,8,Rest_LMA6GM,1,Fast Food,22.14,23-05-2023,active
+800,3,Rest_O6A1JQ,0,Café,22.15,25-01-2023,active
+801,5,Rest_DP4FMP,0,North Indian,26.69,07-07-2023,active
+802,1,Rest_EPLBX8,0,South Indian,19.42,03-07-2023,active
+803,8,Rest_2ZL15S,0,Café,22.48,26-06-2023,active
+804,2,Rest_2EMAYB,0,Chinese,19.69,31-10-2022,active
+805,7,Rest_RKCPW0,0,North Indian,19.83,05-07-2023,active
+806,4,Rest_XPR2D0,0,Healthy/Continental,20.45,03-11-2022,active
+807,3,Rest_IEB97P,0,Bakery,23.11,06-08-2023,active
+808,5,Rest_Z9HPCP,1,Chinese,19.61,17-04-2023,active
+809,6,Rest_ZI6GAX,0,Chinese,28.28,03-01-2023,active
+810,2,Rest_PJRMEY,0,North Indian,17.53,16-03-2023,active
+811,6,Rest_0VVIJV,1,North Indian,21.07,27-06-2023,active
+812,2,Rest_B853GQ,1,Chinese,19.8,20-10-2022,active
+813,8,Rest_9HZBGT,0,North Indian,29.23,08-03-2023,active
+814,8,Rest_WEPRS8,0,Multi-Cuisine,22.98,30-10-2022,active
+815,3,Rest_K8C9G3,0,Bakery,27.16,13-12-2022,inactive
+816,3,Rest_PSUOVH,1,Café,14.57,13-05-2023,active
+817,1,Rest_52QZSK,0,Fast Food,23.34,23-11-2022,active
+818,4,Rest_BIBF57,0,Bakery,26.45,08-10-2022,inactive
+819,4,Rest_TAMVNC,0,Bakery,22.41,19-04-2023,active
+820,7,Rest_6K9WAM,0,Chinese,27.33,03-06-2023,active
+821,1,Rest_T922D0,0,Healthy/Continental,19.41,16-10-2022,active
+822,4,Rest_3HJU31,0,Healthy/Continental,29.05,22-01-2023,active
+823,8,Rest_DGG5GR,0,Healthy/Continental,33.49,22-08-2023,active
+824,3,Rest_3YGFPQ,0,Multi-Cuisine,20.19,12-07-2023,active
+825,3,Rest_03VNA3,0,Healthy/Continental,19.77,26-06-2023,active
+826,2,Rest_J7V2A2,0,Chinese,29.27,20-07-2023,active
+827,8,Rest_163LRI,0,Fast Food,29.9,15-10-2022,active
+828,1,Rest_3DKS4F,0,South Indian,19.39,08-05-2023,active
+829,3,Rest_MK7YYZ,0,Multi-Cuisine,19.9,07-06-2023,inactive
+830,4,Rest_D8MWE7,0,Fast Food,20.59,27-10-2022,active
+831,7,Rest_TVYFYK,0,South Indian,15.28,10-07-2023,active
+832,8,Rest_X73ZCA,0,Chinese,17.41,01-10-2022,active
+833,3,Rest_OZ2RCU,0,Fast Food,16.98,19-06-2023,active
+834,3,Rest_GNLPYO,0,Bakery,18.16,23-06-2023,active
+835,4,Rest_NTTRTI,1,Fast Food,21.83,06-12-2022,active
+836,4,Rest_ZIA9AU,0,Chinese,23.17,02-08-2023,active
+837,6,Rest_453KF4,0,Multi-Cuisine,29.75,30-04-2023,active
+838,4,Rest_CE8ZNA,0,North Indian,17.01,05-08-2023,active
+839,2,Rest_RVFFFI,1,Café,26.92,17-06-2023,active
+840,8,Rest_00ZKOM,0,Chinese,20.93,08-04-2023,active
+841,1,Rest_5B1SA3,0,South Indian,21.75,22-11-2022,active
+842,5,Rest_7SZPF9,0,Bakery,25.37,16-05-2023,active
+843,1,Rest_HG0U43,0,Fast Food,16.39,02-10-2022,active
+844,7,Rest_F2XHDC,0,South Indian,23.91,18-08-2023,active
+845,3,Rest_TCV1LT,0,Multi-Cuisine,22.83,01-05-2023,active
+846,1,Rest_U2BL7A,0,Fast Food,24.46,10-02-2023,active
+847,6,Rest_109ZDO,0,Multi-Cuisine,23.45,18-12-2022,active
+848,3,Rest_A2R5BF,0,Chinese,34.28,16-10-2022,active
+849,4,Rest_53X1F8,0,Café,18.81,03-10-2022,active
+850,6,Rest_QEKW7B,0,Chinese,19.35,02-05-2023,active
+851,2,Rest_8U9DA1,0,Multi-Cuisine,18.88,20-12-2022,active
+852,6,Rest_GKCUMC,0,South Indian,19.22,22-04-2023,inactive
+853,5,Rest_1P778R,0,Multi-Cuisine,18.81,08-02-2023,active
+854,3,Rest_PSWLDO,0,Multi-Cuisine,27.95,19-10-2022,inactive
+855,1,Rest_0I3A4K,0,Fast Food,29.1,26-07-2023,active
+856,8,Rest_YMQT3D,0,Multi-Cuisine,19.15,10-02-2023,active
+857,4,Rest_OCMVH0,1,North Indian,17.84,13-08-2023,active
+858,8,Rest_FHU91C,0,Fast Food,24.36,02-01-2023,active
+859,4,Rest_58YJWD,1,Café,19.24,22-07-2023,active
+860,8,Rest_5SYJ3D,0,Chinese,25.16,02-04-2023,active
+861,6,Rest_7RT28P,0,Healthy/Continental,23.01,14-02-2023,active
+862,4,Rest_CYWL97,0,Bakery,14.42,25-08-2023,active
+863,8,Rest_7RL2YJ,0,Café,29.74,29-06-2023,active
+864,2,Rest_B0GZ1V,0,Chinese,30.98,27-05-2023,inactive
+865,1,Rest_NNKL3E,0,Café,18.94,02-02-2023,active
+866,6,Rest_3P9M7Q,0,Chinese,20.06,01-11-2022,active
+867,7,Rest_N4YPKW,0,Healthy/Continental,23.43,19-07-2023,active
+868,2,Rest_DA7D0W,0,Multi-Cuisine,23.67,18-12-2022,active
+869,1,Rest_Y4H1TE,0,Healthy/Continental,25.29,06-03-2023,inactive
+870,8,Rest_O3Z0AN,0,South Indian,32.05,17-04-2023,active
+871,5,Rest_L66YA6,1,Multi-Cuisine,21.12,15-06-2023,active
+872,6,Rest_M89I9G,0,Multi-Cuisine,18.01,10-11-2022,active
+873,7,Rest_9G6SPD,0,Chinese,15.1,03-07-2023,active
+874,7,Rest_4WJT8H,1,North Indian,18.35,27-08-2023,active
+875,3,Rest_BZ7CN0,1,Bakery,21.83,12-10-2022,active
+876,6,Rest_GXHG40,0,Bakery,30.97,21-04-2023,active
+877,5,Rest_CFA95D,0,Café,19.41,09-07-2023,active
+878,5,Rest_6DRN4O,0,Café,23.12,02-02-2023,active
+879,2,Rest_HP6WQF,0,Chinese,21.92,15-11-2022,active
+880,1,Rest_EMM9VA,0,North Indian,27.94,01-07-2023,active
+881,1,Rest_TS1HN6,1,Multi-Cuisine,34.63,12-05-2023,active
+882,3,Rest_JR8MTK,0,Chinese,19.35,21-01-2023,active
+883,7,Rest_7JH4Z8,1,Fast Food,19.55,26-03-2023,active
+884,4,Rest_8R5P03,0,Multi-Cuisine,27.22,17-02-2023,active
+885,6,Rest_NWCGBS,0,Bakery,25.41,27-10-2022,active
+886,6,Rest_OE3PGI,0,Bakery,31.23,23-02-2023,active
+887,6,Rest_ELALQ2,0,South Indian,24.92,30-07-2023,active
+888,4,Rest_SDKV54,1,Healthy/Continental,20.2,22-01-2023,active
+889,6,Rest_HBRBJE,0,Café,24.95,18-03-2023,active
+890,4,Rest_UKX496,0,Multi-Cuisine,27.54,14-08-2023,active
+891,1,Rest_MAQ3OK,0,Fast Food,26.1,09-02-2023,active
+892,6,Rest_RBK9RX,0,Chinese,24.54,20-10-2022,active
+893,4,Rest_BADLYP,0,Chinese,27.33,25-02-2023,active
+894,1,Rest_75J2D8,1,Multi-Cuisine,27.85,23-10-2022,active
+895,7,Rest_JGEQE5,0,Fast Food,28.91,10-10-2022,active
+896,2,Rest_SIRRK1,0,Multi-Cuisine,25.24,19-04-2023,active
+897,2,Rest_M4IX4Z,1,North Indian,21.16,02-08-2023,active
+898,4,Rest_QNRM31,0,South Indian,22.73,26-03-2023,active
+899,3,Rest_4DE7NQ,0,Bakery,28.03,09-02-2023,active
+900,5,Rest_PY8UDQ,1,Bakery,17.92,01-05-2023,active
+901,8,Rest_GBXQJ7,1,South Indian,23.84,16-05-2023,active
+902,7,Rest_SBJDX0,0,Café,20.03,28-05-2023,active
+903,5,Rest_TRPYX8,0,South Indian,22.14,14-08-2023,active
+904,4,Rest_CDIWZO,1,Café,28.39,22-12-2022,active
+905,4,Rest_MKV0DS,0,North Indian,22.96,29-03-2023,active
+906,4,Rest_GYFLQ8,0,North Indian,22.23,14-03-2023,active
+907,5,Rest_5G1AMR,1,South Indian,15.2,03-01-2023,active
+908,1,Rest_U94SGF,1,Bakery,25.73,14-03-2023,active
+909,6,Rest_9JRNAM,0,Bakery,25.23,31-10-2022,active
+910,5,Rest_Y0A94X,1,Chinese,32.82,17-08-2023,active
+911,7,Rest_M0G8W8,0,North Indian,20.46,14-01-2023,inactive
+912,3,Rest_JY5OP9,0,Café,23.1,09-11-2022,active
+913,6,Rest_4E2U2M,1,Chinese,23.25,20-12-2022,active
+914,3,Rest_QF8WXK,0,Fast Food,29.89,25-08-2023,active
+915,4,Rest_KVBLPX,1,Café,21.52,23-06-2023,active
+916,5,Rest_2S8U8Z,1,Chinese,23.4,23-01-2023,active
+917,2,Rest_KB7IYN,0,Multi-Cuisine,25.04,21-04-2023,active
+918,5,Rest_GP52F1,0,South Indian,22.93,22-11-2022,active
+919,5,Rest_DUWTN5,0,Chinese,19.77,06-12-2022,active
+920,6,Rest_SYMMQ8,0,South Indian,22.97,19-08-2023,inactive
+921,7,Rest_DF62UN,0,South Indian,27.37,04-04-2023,active
+922,7,Rest_EYQ1S4,1,South Indian,16.87,04-10-2022,active
+923,2,Rest_3UY5EV,0,South Indian,22.66,20-05-2023,active
+924,8,Rest_E6XFWZ,0,Chinese,18.5,17-10-2022,active
+925,2,Rest_CF5SID,1,Fast Food,27.98,17-01-2023,active
+926,2,Rest_KRGI4J,0,Healthy/Continental,14.38,21-10-2022,active
+927,3,Rest_WG3XG0,0,Multi-Cuisine,19.21,30-12-2022,active
+928,2,Rest_8RYOZD,0,South Indian,23.89,18-06-2023,active
+929,8,Rest_EOUBXX,0,Bakery,29.83,22-06-2023,active
+930,8,Rest_J9M4SM,0,Multi-Cuisine,21.67,13-12-2022,active
+931,3,Rest_MZMZ2K,0,North Indian,19.22,12-02-2023,active
+932,8,Rest_NQXU71,0,Café,31.41,20-03-2023,active
+933,6,Rest_V3CB0I,0,Café,14.76,01-01-2023,active
+934,4,Rest_930I6G,0,Multi-Cuisine,11.01,31-07-2023,active
+935,5,Rest_E4C1V4,0,Multi-Cuisine,24.2,08-07-2023,active
+936,7,Rest_EWUHRY,0,Bakery,19.49,22-01-2023,active
+937,4,Rest_DA8DBF,1,South Indian,16.89,15-11-2022,active
+938,2,Rest_MY80TG,0,Multi-Cuisine,25.54,19-12-2022,active
+939,3,Rest_2PW5UE,0,South Indian,23.22,03-07-2023,active
+940,1,Rest_VLI77J,0,Multi-Cuisine,19.18,13-06-2023,inactive
+941,2,Rest_TISWLW,0,Multi-Cuisine,15.6,07-11-2022,active
+942,5,Rest_XBPH5C,0,North Indian,26.36,01-08-2023,active
+943,2,Rest_3UV43M,1,Bakery,25.25,30-10-2022,active
+944,2,Rest_5RE0DR,0,South Indian,21.5,24-01-2023,active
+945,4,Rest_AB13T4,0,Healthy/Continental,31.23,23-11-2022,active
+946,7,Rest_1ZPPEP,0,Healthy/Continental,16.65,05-03-2023,active
+947,7,Rest_7IDAO1,0,Chinese,14.37,15-11-2022,active
+948,1,Rest_5ICCPK,0,Café,18.54,01-10-2022,active
+949,5,Rest_EOXXC7,0,Multi-Cuisine,21.77,12-05-2023,active
+950,5,Rest_72KXSJ,0,Café,23.22,10-07-2023,active
+951,7,Rest_ZWKHE9,0,Café,20.79,17-05-2023,active
+952,3,Rest_BIP18A,0,North Indian,23.76,12-04-2023,active
+953,5,Rest_3DKVR5,0,Bakery,15.74,10-05-2023,active
+954,3,Rest_XTXB17,0,Multi-Cuisine,29.22,20-04-2023,active
+955,4,Rest_1M3PP0,0,Fast Food,21.59,08-07-2023,active
+956,5,Rest_47QUUS,0,North Indian,27.59,05-01-2023,active
+957,4,Rest_EA28DI,0,Bakery,23.71,13-11-2022,active
+958,5,Rest_NX23VE,0,South Indian,24.28,19-04-2023,active
+959,8,Rest_QPQ8R4,0,South Indian,24.85,09-11-2022,active
+960,5,Rest_6T8PJ2,0,Multi-Cuisine,24.24,28-06-2023,active
+961,3,Rest_FWBEBY,0,North Indian,25.21,23-03-2023,active
+962,4,Rest_CZJJY4,0,Multi-Cuisine,28.65,29-10-2022,active
+963,2,Rest_CPSILN,0,North Indian,22.98,27-07-2023,active
+964,5,Rest_FL2MOX,0,Chinese,25.55,18-10-2022,active
+965,6,Rest_B76AV3,0,Café,21.55,08-11-2022,active
+966,4,Rest_NUXF1X,0,Healthy/Continental,29.2,16-11-2022,active
+967,7,Rest_TE52VX,0,North Indian,18.62,17-04-2023,active
+968,5,Rest_6L29IL,0,Fast Food,31,17-01-2023,active
+969,7,Rest_NMS6XV,0,Café,21.8,07-05-2023,active
+970,3,Rest_7I6YXV,0,Healthy/Continental,14.85,25-03-2023,active
+971,7,Rest_P9UW16,0,Chinese,22.64,08-06-2023,active
+972,5,Rest_1ZQD54,1,Multi-Cuisine,18.59,26-07-2023,active
+973,7,Rest_6MOUZE,0,South Indian,26.2,03-11-2022,active
+974,2,Rest_9B0MQO,0,Multi-Cuisine,18.74,06-04-2023,active
+975,3,Rest_00V3SF,1,North Indian,19.77,24-02-2023,active
+976,8,Rest_NPSV8D,0,Multi-Cuisine,12.55,08-08-2023,active
+977,7,Rest_KN18B8,0,Fast Food,19.74,24-01-2023,active
+978,6,Rest_DKEJP5,0,Multi-Cuisine,10,26-10-2022,active
+979,4,Rest_XFH41A,0,Café,14.08,30-11-2022,active
+980,1,Rest_R3NK8P,0,Fast Food,25.8,12-01-2023,active
+981,2,Rest_Z7E5RD,1,South Indian,25.93,04-07-2023,inactive
+982,2,Rest_0ICFMQ,0,Healthy/Continental,24.13,24-03-2023,active
+983,1,Rest_P72L4X,0,North Indian,17.17,12-10-2022,active
+984,4,Rest_EN7YJF,0,Multi-Cuisine,21.76,10-04-2023,active
+985,2,Rest_840ACU,0,Chinese,21.98,13-08-2023,active
+986,5,Rest_WWIMT8,0,Café,16.21,05-04-2023,active
+987,8,Rest_2OMRDE,0,Multi-Cuisine,29.52,30-01-2023,inactive
+988,6,Rest_IPG8XM,0,North Indian,26.39,28-12-2022,active
+989,8,Rest_VYBJH4,0,Fast Food,20.9,20-03-2023,active
+990,6,Rest_O3PJBR,0,Fast Food,22.13,28-03-2023,active
+991,4,Rest_UFHW8W,0,Café,23.04,29-11-2022,active
+992,1,Rest_2DZ61T,0,Multi-Cuisine,11.79,17-05-2023,active
+993,4,Rest_94OZKF,0,Chinese,20.76,14-05-2023,active
+994,4,Rest_7BA7DO,0,Healthy/Continental,18.59,10-04-2023,active
+995,4,Rest_WYB03N,0,Healthy/Continental,16.99,20-07-2023,active
+996,7,Rest_A0T7DV,0,Multi-Cuisine,20.59,26-03-2023,active
+997,7,Rest_SAJHJX,0,Healthy/Continental,30.99,25-01-2023,active
+998,7,Rest_UR6TIA,0,South Indian,25.2,23-02-2023,active
+999,2,Rest_QUA1QR,1,North Indian,19.14,15-03-2023,active
+1000,2,Rest_DG5RIF,0,Café,24.86,08-12-2022,active

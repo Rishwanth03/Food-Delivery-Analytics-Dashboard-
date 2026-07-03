@@ -1,0 +1,9 @@
+city_id,city_name,state,zone,Type,pincode_sample
+1,Mumbai,Maharashtra,West,Metro,770487
+2,Delhi,Delhi,North,Metro,216739
+3,Bengaluru,Karnataka,South,Metro,126225
+4,Hyderabad,Telangana,South,Metro,877572
+5,Chennai,Tamil Nadu,South,Metro,388389
+6,Pune,Maharashtra,West,Tier-1,356787
+7,Ahmedabad,Gujarat,West,Tier-1,334053
+8,Kolkata,West Bengal,East,Tier-1,246316
