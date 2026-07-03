@@ -1,6 +1,0 @@
-reason_code,reason_text,category
-1,Customer cancelled,customer
-2,Restaurant unavailable,restaurant
-3,Rider not assigned,operations
-4,Payment failure,payment
-5,Other,other
